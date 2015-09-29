@@ -1,4 +1,4 @@
-/target/
-.classpath
-.project
-/.settings/
+processRunner/target/
+processRunner/.classpath
+processRunner/.project
+processRunner/.settings/
